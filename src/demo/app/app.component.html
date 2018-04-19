@@ -1,0 +1,4 @@
+<my-lib></my-lib>
+<h3>Quotes</h3>
+<div *ngFor="let quote of quotes | async" [innerHtml]="quote.content">
+</div>
