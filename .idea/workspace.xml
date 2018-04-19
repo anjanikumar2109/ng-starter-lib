@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86549e6b-4180-4147-aabd-23bd477b3bcf" name="Default" comment="" />
+    <list default="true" id="86549e6b-4180-4147-aabd-23bd477b3bcf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +25,6 @@
                 <marker date="1524093961814" expanded="true" signature="4889:4937" ph="{...}" />
                 <marker date="1524093961814" expanded="true" signature="5012:5058" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tsconfig.es5.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lib/tsconfig.es5.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -92,15 +85,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
+            <state split_layout="SECOND">
               <first_editor relative-caret-position="-3034">
                 <caret line="233" column="70" lean-forward="false" selection-start-line="233" selection-start-column="70" selection-end-line="233" selection-end-column="70" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/demo/app/app.component.html" />
         <option value="$PROJECT_DIR$/src/demo/app/app.component.ts" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -454,12 +458,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524088049169</updated>
-      <workItem from="1524088053698" duration="7355000" />
+      <workItem from="1524088053698" duration="7518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7355000" />
+    <option name="totallyTimeSpent" value="7518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -786,12 +790,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="-3034">
             <caret line="233" column="70" lean-forward="false" selection-start-line="233" selection-start-column="70" selection-end-line="233" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
