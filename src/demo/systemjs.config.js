@@ -39,7 +39,8 @@
         }
       },
       rxjs: {
-        defaultExtension: 'js'
+        defaultExtension: 'js',
+        main: 'index.js'
       },
       'rxjs/operators': {
         defaultExtension: 'js',

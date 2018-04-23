@@ -4,7 +4,7 @@ import { LibModule, LibConfig } from 'ng-starter-lib';
 
 import { AppComponent }  from './app.component';
 
-const config: { quoteService: string } = { quoteService: 'https://quotes.rest/qod' };
+let config: LibConfig;
 
 @NgModule({
   imports:      [ BrowserModule, LibModule],
